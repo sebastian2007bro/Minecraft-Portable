@@ -31,6 +31,3 @@ You can host servers directly in the folder!
 
 Note: (You can change the name of the .jar, you just need to go into the server.bat and change 'server.jar' in anything, for example: 'myfirstserver.jar')
 
-# Help
-Come to Discord!
-Asyfero#1503
